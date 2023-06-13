@@ -7,14 +7,14 @@
 * [Easy OCR](https://github.com/JaidedAI/EasyOCR) : In this project I used EasyOCR to extract text and leverage a size filtering algorithm to grab the largest detection region. EasyOCR is build on PyTorch.
 * [openCV](https://opencv.org/): It is a library mainly used at real-time computer vision.
 * [Tensorflow](https://github.com/tensorflow/models) : Here I used Tensorflow object detection Model (SSD MobileNet V2 FPNLite 320x320) to detect the plate trained on a Kaggle Dataset.
-* Python Libraries: Most of the libraries are mentioned in [requirements.txt](https://github.com/MiteshJalan/blob/main/requirements.txt) but some of the libraries and requirements depends on the user's machines, whether its installed or not and also the libraries for Tensorflow Object Detection (TFOD) consistently change. Eg: pycocotools, pytorch with CUDA acceleration (with or without GPU), microsoft visual c++ 19.0 etc.
+* Python Libraries: Most of the libraries are mentioned in [requirements.txt](https://github.com/MiteshJalan/requirements.txt) but some of the libraries and requirements depends on the user's machines, whether its installed or not and also the libraries for Tensorflow Object Detection (TFOD) consistently change. Eg: pycocotools, pytorch with CUDA acceleration (with or without GPU), microsoft visual c++ 19.0 etc.
 
 ## Steps
 These outline the steps I used to go through in order to get up and running with ANPR. 
 
 ### Install and Setup :
 
-<b>Step 1.</b> Clone this repository: https://github.com/MiteshJalan
+<b>Step 1.</b> Clone this repository: https://github.com/MiteshJalan/RealTimeCarLicensePlateDetection
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
