@@ -1,4 +1,4 @@
-# Real-Time-Number-Plate-Recognition
+# AI Traffic Police
 ![1_-1D-CabftTbQpm01cp3Dpg](https://user-images.githubusercontent.com/56076028/145536187-50aaa69f-655c-4459-8353-78327a2c0f7c.gif)
 
 
